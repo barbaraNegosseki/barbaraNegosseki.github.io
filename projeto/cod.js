@@ -1,4 +1,3 @@
-<<<<<<< HEAD:cod.js
 
 function showFields(){
   $("#field-sobre").click(function(){
@@ -37,6 +36,3 @@ function showFields(){
     $("#h2-voltar").hide();
   });
 }
-=======
-
->>>>>>> 4df28faa947eb1bff61c769cfbbc3120c973937e:projeto/cod.js
